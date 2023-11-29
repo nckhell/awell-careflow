@@ -5,8 +5,8 @@
       "_key": "USlw4pE-bXT5",
       "type": "step",
       "definition_id": "USlw4pE-bXT5",
-      "title": "Another title",
-      "key": "Anothertitle",
+      "title": "Message",
+      "key": "Message",
       "label_definition_ids": [],
       "action_definition_ids": [
         "Curq2wSogAU5"
@@ -21,7 +21,7 @@
         "date": "2023-11-29T11:50:43.751Z"
       },
       "last_updated": {
-        "date": "2023-11-29T17:25:17.273Z",
+        "date": "2023-11-29T17:29:13.381Z",
         "user_id": "3kDLWyKJ-SNCFLnmB65i7"
       }
     }
