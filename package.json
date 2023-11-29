@@ -1,0 +1,23 @@
+{
+  "name": "awell-careflow",
+  "version": "1.0.0",
+  "description": "A brief description of your project",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nckhell/awell-careflow/tree/main"
+  },
+  "keywords": [
+    "awell",
+    "testing",
+    "jest"
+  ],
+  "author": "Nick Hellemans",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.10",
+    "jest": "^27.0.0"
+  }
+}
