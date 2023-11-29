@@ -2,22 +2,25 @@ name: Tests
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Use Node.js (latest stable version)
-      uses: actions/setup-node@v3
-      with:
-        node-version: 'node'
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
 
-    - run: npm ci
-    - run: npm test
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run tests
+        run: npm test
