@@ -9,13 +9,13 @@
       "html_body": "<p class=\"slate-p\">test message</p>",
       "attachments": null,
       "format": "html",
-      "subject": "test subject 3",
+      "subject": "test subject 4",
       "created": {
         "user_id": "3kDLWyKJ-SNCFLnmB65i7",
         "date": "2023-11-29T11:50:54.548Z"
       },
       "last_updated": {
-        "date": "2023-11-29T12:09:59.430Z",
+        "date": "2023-11-29T16:44:52.463Z",
         "user_id": "3kDLWyKJ-SNCFLnmB65i7"
       },
       "constant_ids": []
