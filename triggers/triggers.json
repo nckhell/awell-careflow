@@ -19,5 +19,29 @@
         "type": "pathway_started"
       }
     }
+  },
+  {
+    "type": "trigger",
+    "trigger": {
+      "_key": "VW8LsVODLw0_",
+      "definition_id": "VW8LsVODLw0_",
+      "pathway_id": "a1rtyw3sssXw",
+      "target_id": "j4jSzvvBXQmr",
+      "target_type": "track",
+      "created": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T17:33:15.165Z"
+      },
+      "last_updated": {
+        "date": "2023-11-29T17:33:25.380Z",
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7"
+      },
+      "settings": {
+        "rule_id": "GM_vfINuzIbL",
+        "track_id": "Z_lFalZly2TM",
+        "type": "step_completed",
+        "step_id": "USlw4pE-bXT5"
+      }
+    }
   }
 ]

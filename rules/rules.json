@@ -32,5 +32,22 @@
         "date": "2023-11-29T11:50:47.732Z"
       }
     }
+  },
+  {
+    "type": "rule",
+    "rule": {
+      "_key": "GM_vfINuzIbL",
+      "definition_id": "GM_vfINuzIbL",
+      "conditions": [],
+      "boolean_operator": "and",
+      "created": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T17:33:21.779Z"
+      },
+      "last_updated": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T17:33:21.779Z"
+      }
+    }
   }
 ]

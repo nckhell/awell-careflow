@@ -362,6 +362,46 @@
   {
     "type": "data_point_definition",
     "data_point_definition": {
+      "_key": "j4jSzvvBXQmr-ACTIVATION",
+      "definition_id": "j4jSzvvBXQmr-ACTIVATION",
+      "key": "ActivationDate",
+      "source_definition_id": "j4jSzvvBXQmr",
+      "category": "track",
+      "valueType": "date",
+      "created": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T17:33:15.149Z"
+      },
+      "last_updated": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T17:33:15.149Z"
+      },
+      "qualified_key": "Newtraack.ActivationDate"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "j4jSzvvBXQmr-COMPLETION",
+      "definition_id": "j4jSzvvBXQmr-COMPLETION",
+      "key": "CompletionDate",
+      "source_definition_id": "j4jSzvvBXQmr",
+      "category": "track",
+      "valueType": "date",
+      "created": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T17:33:15.149Z"
+      },
+      "last_updated": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T17:33:15.149Z"
+      },
+      "qualified_key": "Newtraack.CompletionDate"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
       "_key": "USlw4pE-bXT5-ACTIVATION",
       "definition_id": "USlw4pE-bXT5-ACTIVATION",
       "key": "ActivationDate",
@@ -376,7 +416,7 @@
         "user_id": "3kDLWyKJ-SNCFLnmB65i7",
         "date": "2023-11-29T11:50:43.751Z"
       },
-      "qualified_key": "Message.ActivationDate"
+      "qualified_key": "Anothertitle.ActivationDate"
     }
   },
   {
@@ -396,7 +436,7 @@
         "user_id": "3kDLWyKJ-SNCFLnmB65i7",
         "date": "2023-11-29T11:50:43.751Z"
       },
-      "qualified_key": "Message.CompletionDate"
+      "qualified_key": "Anothertitle.CompletionDate"
     }
   }
 ]
