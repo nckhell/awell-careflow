@@ -1,0 +1,104 @@
+[
+  {
+    "type": "label",
+    "label": {
+      "_key": "dUPa6zxtn10Z",
+      "definition_id": "dUPa6zxtn10Z",
+      "color": "blue",
+      "text": "",
+      "created": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T11:35:26.126Z"
+      },
+      "last_updated": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T11:35:26.126Z"
+      }
+    }
+  },
+  {
+    "type": "label",
+    "label": {
+      "_key": "iSg4JZ6pYw42",
+      "definition_id": "iSg4JZ6pYw42",
+      "color": "teal",
+      "text": "",
+      "created": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T11:35:26.126Z"
+      },
+      "last_updated": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T11:35:26.126Z"
+      }
+    }
+  },
+  {
+    "type": "label",
+    "label": {
+      "_key": "5yt2EzFQef_n",
+      "definition_id": "5yt2EzFQef_n",
+      "color": "green",
+      "text": "",
+      "created": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T11:35:26.126Z"
+      },
+      "last_updated": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T11:35:26.126Z"
+      }
+    }
+  },
+  {
+    "type": "label",
+    "label": {
+      "_key": "-w0RxG7FHsis",
+      "definition_id": "-w0RxG7FHsis",
+      "color": "orange",
+      "text": "",
+      "created": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T11:35:26.126Z"
+      },
+      "last_updated": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T11:35:26.126Z"
+      }
+    }
+  },
+  {
+    "type": "label",
+    "label": {
+      "_key": "Aa7-y1XQr_z4",
+      "definition_id": "Aa7-y1XQr_z4",
+      "color": "red",
+      "text": "",
+      "created": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T11:35:26.126Z"
+      },
+      "last_updated": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T11:35:26.126Z"
+      }
+    }
+  },
+  {
+    "type": "label",
+    "label": {
+      "_key": "ocaXDab5kygt",
+      "definition_id": "ocaXDab5kygt",
+      "color": "purple",
+      "text": "",
+      "created": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T11:35:26.126Z"
+      },
+      "last_updated": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T11:35:26.126Z"
+      }
+    }
+  }
+]

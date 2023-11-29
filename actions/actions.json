@@ -1,0 +1,25 @@
+[
+  {
+    "type": "action",
+    "action": {
+      "_key": "Curq2wSogAU5",
+      "definition_id": "Curq2wSogAU5",
+      "title": "Message",
+      "step_definition_id": "USlw4pE-bXT5",
+      "stakeholder_definition_ids": [
+        "7f0KSxNUtMu_"
+      ],
+      "location_definition_ids": [],
+      "created": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T11:50:54.512Z"
+      },
+      "type": "message",
+      "last_updated": {
+        "date": "2023-11-29T11:50:56.558Z",
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7"
+      },
+      "message_definition_id": "sMN9S2UptCrT"
+    }
+  }
+]

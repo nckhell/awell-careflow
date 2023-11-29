@@ -1,0 +1,29 @@
+[
+  {
+    "type": "step",
+    "step": {
+      "_key": "USlw4pE-bXT5",
+      "type": "step",
+      "definition_id": "USlw4pE-bXT5",
+      "title": "Message",
+      "key": "Message",
+      "label_definition_ids": [],
+      "action_definition_ids": [
+        "Curq2wSogAU5"
+      ],
+      "track_definition_id": "Z_lFalZly2TM",
+      "coordinates": {
+        "x": 544,
+        "y": 224
+      },
+      "created": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T11:50:43.751Z"
+      },
+      "last_updated": {
+        "date": "2023-11-29T11:50:54.526Z",
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7"
+      }
+    }
+  }
+]

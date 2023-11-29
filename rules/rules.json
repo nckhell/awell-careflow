@@ -1,0 +1,36 @@
+[
+  {
+    "type": "rule",
+    "rule": {
+      "_key": "54G-cTGF2bAh",
+      "definition_id": "54G-cTGF2bAh",
+      "conditions": [],
+      "boolean_operator": "and",
+      "created": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T11:50:46.209Z"
+      },
+      "last_updated": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T11:50:46.209Z"
+      }
+    }
+  },
+  {
+    "type": "rule",
+    "rule": {
+      "_key": "tbHRqRdDNMbG",
+      "definition_id": "tbHRqRdDNMbG",
+      "conditions": [],
+      "boolean_operator": "and",
+      "created": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T11:50:47.732Z"
+      },
+      "last_updated": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-11-29T11:50:47.732Z"
+      }
+    }
+  }
+]
