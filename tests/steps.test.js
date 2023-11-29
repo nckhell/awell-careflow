@@ -1,9 +1,10 @@
-const steps = require('../actions/actions.json');
+const steps = require('../steps/steps.json');
 
 describe('Steps', () => {
-  it('Message action should have a "Message" as a title', () => {
-    const messageAction = steps.find(d => d.action.definition_id === 'Curq2wSogAU5').action
+  it('Step should have "Message" as a title', () => {
+    const messageStep = steps.find(d => d.step.definition_id === 'USlw4pE-bXT5').step
+    console.log(messageStep)
 
-    expect(messageAction.title).toBe('Message');
+    expect(messageStep.title).toBe('Message');
   });
 });
