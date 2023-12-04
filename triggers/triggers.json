@@ -19,23 +19,5 @@
         "type": "pathway_started"
       }
     }
-  },
-  {
-    "type": "trigger",
-    "trigger": {
-      "_key": "YOZ5OYA6NYZ8",
-      "definition_id": "YOZ5OYA6NYZ8",
-      "pathway_id": "a1rtyw3sssXw",
-      "target_id": "7X4AoXzqqZFB",
-      "target_type": "track",
-      "created": {
-        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
-        "date": "2023-12-04T08:18:18.880Z"
-      },
-      "last_updated": {
-        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
-        "date": "2023-12-04T08:18:18.880Z"
-      }
-    }
   }
 ]

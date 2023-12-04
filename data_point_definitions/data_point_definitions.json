@@ -362,46 +362,6 @@
   {
     "type": "data_point_definition",
     "data_point_definition": {
-      "_key": "7X4AoXzqqZFB-ACTIVATION",
-      "definition_id": "7X4AoXzqqZFB-ACTIVATION",
-      "key": "ActivationDate",
-      "source_definition_id": "7X4AoXzqqZFB",
-      "category": "track",
-      "valueType": "date",
-      "created": {
-        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
-        "date": "2023-12-04T08:18:18.860Z"
-      },
-      "last_updated": {
-        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
-        "date": "2023-12-04T08:18:18.860Z"
-      },
-      "qualified_key": "2ndtrack.ActivationDate"
-    }
-  },
-  {
-    "type": "data_point_definition",
-    "data_point_definition": {
-      "_key": "7X4AoXzqqZFB-COMPLETION",
-      "definition_id": "7X4AoXzqqZFB-COMPLETION",
-      "key": "CompletionDate",
-      "source_definition_id": "7X4AoXzqqZFB",
-      "category": "track",
-      "valueType": "date",
-      "created": {
-        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
-        "date": "2023-12-04T08:18:18.860Z"
-      },
-      "last_updated": {
-        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
-        "date": "2023-12-04T08:18:18.860Z"
-      },
-      "qualified_key": "2ndtrack.CompletionDate"
-    }
-  },
-  {
-    "type": "data_point_definition",
-    "data_point_definition": {
       "_key": "USlw4pE-bXT5-ACTIVATION",
       "definition_id": "USlw4pE-bXT5-ACTIVATION",
       "key": "ActivationDate",

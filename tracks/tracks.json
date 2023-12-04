@@ -23,30 +23,5 @@
         "user_id": "3kDLWyKJ-SNCFLnmB65i7"
       }
     }
-  },
-  {
-    "type": "track",
-    "track": {
-      "_key": "7X4AoXzqqZFB",
-      "definition_id": "7X4AoXzqqZFB",
-      "title": "2nd track",
-      "key": "2ndtrack",
-      "start_coordinates": {
-        "x": 250,
-        "y": 250
-      },
-      "end_coordinates": {
-        "x": 800,
-        "y": 250
-      },
-      "created": {
-        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
-        "date": "2023-12-04T08:18:18.860Z"
-      },
-      "last_updated": {
-        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
-        "date": "2023-12-04T08:18:18.860Z"
-      }
-    }
   }
 ]
