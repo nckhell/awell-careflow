@@ -21,15 +21,25 @@
     "rule": {
       "_key": "tbHRqRdDNMbG",
       "definition_id": "tbHRqRdDNMbG",
-      "conditions": [],
+      "conditions": [
+        {
+          "id": "TjJKrgk_eco8",
+          "operand": {
+            "type": "numbers_array",
+            "value": "[\"0\",\"1\",\"2\",\"5\"]"
+          },
+          "operator": "is_any_of",
+          "reference": "EuP9d1oyRtgm"
+        }
+      ],
       "boolean_operator": "and",
       "created": {
         "user_id": "3kDLWyKJ-SNCFLnmB65i7",
         "date": "2023-11-29T11:50:47.732Z"
       },
       "last_updated": {
-        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
-        "date": "2023-11-29T11:50:47.732Z"
+        "date": "2023-12-05T15:55:12.938Z",
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7"
       }
     }
   }

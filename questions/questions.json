@@ -1,0 +1,65 @@
+[
+  {
+    "type": "question",
+    "question": {
+      "_key": "EuP9d1oyRtgm",
+      "definition_id": "EuP9d1oyRtgm",
+      "form_definition_id": "LrvRm91vXR17",
+      "dataPointValueType": "numbers_array",
+      "questionType": "multiple_choice",
+      "userQuestionType": "multiple_select",
+      "key": "a",
+      "title": "a",
+      "options": [
+        {
+          "id": "dKuZtuhTuvFe",
+          "value": 0,
+          "label": "adsfsdfdsfdsfdsfsdfds"
+        },
+        {
+          "id": "w2jXPntEbU0R",
+          "value": 1,
+          "label": "bfdsfdsfdsfafeafds"
+        },
+        {
+          "id": "qXa_-_-KAwSW",
+          "value": 2,
+          "label": "c"
+        },
+        {
+          "id": "W1H9p4JF2U0V",
+          "value": 3,
+          "label": "dfdsfdsfsdfdsf"
+        },
+        {
+          "id": "MmO7CFp6NwnS",
+          "value": 4,
+          "label": "e"
+        },
+        {
+          "id": "rWV6JEcVIL7H",
+          "value": 5,
+          "label": "f"
+        },
+        {
+          "id": "SOaFQW9guNu0",
+          "value": 6,
+          "label": ""
+        }
+      ],
+      "questionConfig": {
+        "recode_enabled": false,
+        "mandatory": false,
+        "use_select": false
+      },
+      "created": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-12-05T15:52:44.952Z"
+      },
+      "last_updated": {
+        "date": "2023-12-05T15:54:51.561Z",
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7"
+      }
+    }
+  }
+]

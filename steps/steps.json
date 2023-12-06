@@ -9,7 +9,8 @@
       "key": "Message",
       "label_definition_ids": [],
       "action_definition_ids": [
-        "Curq2wSogAU5"
+        "Curq2wSogAU5",
+        "6FKFT0tugb1c"
       ],
       "track_definition_id": "Z_lFalZly2TM",
       "coordinates": {
@@ -21,7 +22,7 @@
         "date": "2023-11-29T11:50:43.751Z"
       },
       "last_updated": {
-        "date": "2023-11-29T17:34:45.891Z",
+        "date": "2023-12-05T15:52:34.342Z",
         "user_id": "3kDLWyKJ-SNCFLnmB65i7"
       }
     }

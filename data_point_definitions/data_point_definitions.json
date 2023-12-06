@@ -398,5 +398,55 @@
       },
       "qualified_key": "Message.CompletionDate"
     }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "EuP9d1oyRtgm",
+      "definition_id": "EuP9d1oyRtgm",
+      "source_definition_id": "LrvRm91vXR17",
+      "category": "form",
+      "key": "",
+      "valueType": "numbers_array",
+      "possibleValues": [
+        {
+          "label": "adsfsdfdsfdsfdsfsdfds",
+          "value": "0"
+        },
+        {
+          "label": "bfdsfdsfdsfafeafds",
+          "value": "1"
+        },
+        {
+          "label": "c",
+          "value": "2"
+        },
+        {
+          "label": "dfdsfdsfsdfdsf",
+          "value": "3"
+        },
+        {
+          "label": "e",
+          "value": "4"
+        },
+        {
+          "label": "f",
+          "value": "5"
+        },
+        {
+          "label": "",
+          "value": "6"
+        }
+      ],
+      "created": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-12-05T15:52:44.952Z"
+      },
+      "last_updated": {
+        "date": "2023-12-05T15:54:51.561Z",
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7"
+      },
+      "qualified_key": "multipleSelect.a"
+    }
   }
 ]
