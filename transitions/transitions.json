@@ -2,8 +2,8 @@
   {
     "type": "transition",
     "transition": {
-      "_key": "Lx3G0fWEO6za",
-      "definition_id": "Lx3G0fWEO6za",
+      "_key": "DM5vkKDmJp-x",
+      "definition_id": "DM5vkKDmJp-x",
       "origin": {
         "type": "track_start",
         "node_id": "Z_lFalZly2TM"
@@ -12,40 +12,140 @@
         "type": "step",
         "node_id": "USlw4pE-bXT5"
       },
-      "rule_definition_id": "54G-cTGF2bAh",
+      "rule_definition_id": "iYUaxIVYYoFB",
       "default": false,
       "created": {
         "user_id": "3kDLWyKJ-SNCFLnmB65i7",
-        "date": "2023-11-29T11:50:46.209Z"
+        "date": "2023-12-07T08:07:42.914Z"
       },
       "last_updated": {
         "user_id": "3kDLWyKJ-SNCFLnmB65i7",
-        "date": "2023-11-29T11:50:46.209Z"
+        "date": "2023-12-07T08:07:42.914Z"
       }
     }
   },
   {
     "type": "transition",
     "transition": {
-      "_key": "MHGAPvoXEjSA",
-      "definition_id": "MHGAPvoXEjSA",
+      "_key": "nfvebd5P6aee",
+      "definition_id": "nfvebd5P6aee",
       "origin": {
         "type": "step",
         "node_id": "USlw4pE-bXT5"
       },
       "destination": {
-        "type": "track_end",
-        "node_id": "Z_lFalZly2TM"
+        "type": "step",
+        "node_id": "ysNn1Up3DZH3"
       },
-      "rule_definition_id": "tbHRqRdDNMbG",
+      "rule_definition_id": "hpAKWfhhw-TV",
       "default": false,
       "created": {
         "user_id": "3kDLWyKJ-SNCFLnmB65i7",
-        "date": "2023-11-29T11:50:47.732Z"
+        "date": "2023-12-07T08:07:58.369Z"
       },
       "last_updated": {
         "user_id": "3kDLWyKJ-SNCFLnmB65i7",
-        "date": "2023-11-29T11:50:47.732Z"
+        "date": "2023-12-07T08:07:58.369Z"
+      }
+    }
+  },
+  {
+    "type": "transition",
+    "transition": {
+      "_key": "7vRUfsYMvOT5",
+      "definition_id": "7vRUfsYMvOT5",
+      "origin": {
+        "type": "step",
+        "node_id": "ysNn1Up3DZH3"
+      },
+      "destination": {
+        "type": "step",
+        "node_id": "W-o_a86qEA0Y"
+      },
+      "rule_definition_id": "zXvAhGv9BaTe",
+      "default": false,
+      "created": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-12-07T08:08:21.116Z"
+      },
+      "last_updated": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-12-07T08:08:21.116Z"
+      }
+    }
+  },
+  {
+    "type": "transition",
+    "transition": {
+      "_key": "kqZKLC89bDqE",
+      "definition_id": "kqZKLC89bDqE",
+      "origin": {
+        "type": "step",
+        "node_id": "ysNn1Up3DZH3"
+      },
+      "destination": {
+        "type": "step",
+        "node_id": "HSi_RLY2qOR3"
+      },
+      "rule_definition_id": "CLHqWdcR6cFT",
+      "default": false,
+      "created": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-12-07T08:09:10.713Z"
+      },
+      "last_updated": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-12-07T08:09:10.713Z"
+      }
+    }
+  },
+  {
+    "type": "transition",
+    "transition": {
+      "_key": "IaOZuqFcYTKV",
+      "definition_id": "IaOZuqFcYTKV",
+      "origin": {
+        "type": "step",
+        "node_id": "HSi_RLY2qOR3"
+      },
+      "destination": {
+        "type": "track_end",
+        "node_id": "Z_lFalZly2TM"
+      },
+      "rule_definition_id": "6NlDQthbZZQN",
+      "default": false,
+      "created": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-12-07T08:09:28.283Z"
+      },
+      "last_updated": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-12-07T08:09:28.283Z"
+      }
+    }
+  },
+  {
+    "type": "transition",
+    "transition": {
+      "_key": "5OQgfvoSrQNy",
+      "definition_id": "5OQgfvoSrQNy",
+      "origin": {
+        "type": "step",
+        "node_id": "W-o_a86qEA0Y"
+      },
+      "destination": {
+        "type": "track_end",
+        "node_id": "Z_lFalZly2TM"
+      },
+      "rule_definition_id": "BMws1pIv7ETJ",
+      "default": false,
+      "created": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-12-07T08:09:30.185Z"
+      },
+      "last_updated": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-12-07T08:09:30.185Z"
       }
     }
   }

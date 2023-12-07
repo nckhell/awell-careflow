@@ -7,11 +7,11 @@
       "title": "Default track",
       "key": "Defaulttrack",
       "start_coordinates": {
-        "x": 250,
+        "x": 154,
         "y": 250
       },
       "end_coordinates": {
-        "x": 1008,
+        "x": 1696,
         "y": 250
       },
       "created": {
@@ -19,7 +19,7 @@
         "date": "2023-11-29T11:35:26.141Z"
       },
       "last_updated": {
-        "date": "2023-11-29T11:50:39.746Z",
+        "date": "2023-12-07T08:09:32.447Z",
         "user_id": "3kDLWyKJ-SNCFLnmB65i7"
       }
     }

@@ -20,5 +20,27 @@
       },
       "constant_ids": []
     }
+  },
+  {
+    "type": "message",
+    "message": {
+      "_key": "uaJwojEz0I61",
+      "definition_id": "uaJwojEz0I61",
+      "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"b\"}]}]",
+      "dynamic_variable_definition_ids": [],
+      "html_body": "<p class=\"slate-p\">b</p>",
+      "attachments": null,
+      "format": "html",
+      "subject": "a",
+      "created": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-12-07T08:08:46.285Z"
+      },
+      "last_updated": {
+        "date": "2023-12-07T08:08:52.090Z",
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7"
+      },
+      "constant_ids": []
+    }
   }
 ]

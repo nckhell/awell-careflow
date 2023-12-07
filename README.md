@@ -1,8 +1,8 @@
 
-  # Nick Github Synced Pathway
+  # Conditionitis Care Flow
   
   ## Overview
-  This repository contains the components of _Nick Github Synced Pathway_ care-flow. Care-Flows, also known as care plans, clinical workflows, care pathways, or clinical protocols, are sequences of activities performed by the care team and/or the patient to achieve or maintain a desired health state for the patient.
+  This repository contains the components of _Conditionitis Care Flow_ care-flow. Care-Flows, also known as care plans, clinical workflows, care pathways, or clinical protocols, are sequences of activities performed by the care team and/or the patient to achieve or maintain a desired health state for the patient.
   
   In the Awell platform, 'care flows' and 'pathways' are used interchangeably to describe these processes.
   
