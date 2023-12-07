@@ -572,6 +572,28 @@
   {
     "type": "data_point_definition",
     "data_point_definition": {
+      "_key": "bmi.BMI",
+      "definition_id": "bmi.BMI",
+      "source_definition_id": "bmi",
+      "category": "calculation",
+      "key": "bmi.BMI",
+      "valueType": "number",
+      "possibleValues": [],
+      "unit": "kg/m2",
+      "created": {
+        "user_id": "system",
+        "date": "2023-11-14T20:06:05.360Z"
+      },
+      "last_updated": {
+        "user_id": "system",
+        "date": "2023-11-14T20:06:05.360Z"
+      },
+      "qualified_key": "bmi.BMI"
+    }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
       "_key": "EB3LcST7mw4z",
       "definition_id": "EB3LcST7mw4z",
       "source_definition_id": "LrvRm91vXR17",

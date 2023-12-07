@@ -47,6 +47,37 @@
   {
     "type": "action",
     "action": {
+      "_key": "XP5PwiQFsoCv",
+      "definition_id": "XP5PwiQFsoCv",
+      "title": "Calculation",
+      "step_definition_id": "USlw4pE-bXT5",
+      "stakeholder_definition_ids": [],
+      "location_definition_ids": [],
+      "created": {
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7",
+        "date": "2023-12-07T09:05:45.756Z"
+      },
+      "type": "calculation",
+      "calculation_inputs": [
+        {
+          "calculation_input_id": "weight",
+          "data_point_definition_id": "EB3LcST7mw4z"
+        },
+        {
+          "calculation_input_id": "height",
+          "data_point_definition_id": "zl06QmU4T5h3"
+        }
+      ],
+      "last_updated": {
+        "date": "2023-12-07T09:05:53.695Z",
+        "user_id": "3kDLWyKJ-SNCFLnmB65i7"
+      },
+      "calculation_definition_id": "bmi"
+    }
+  },
+  {
+    "type": "action",
+    "action": {
       "_key": "BeRbmPuVtrcc",
       "definition_id": "BeRbmPuVtrcc",
       "title": "Form",
